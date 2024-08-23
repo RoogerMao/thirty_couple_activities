@@ -1,5 +1,5 @@
 # About
-Sample 30 days/activities project for Google Developers's Android Basics with Compose Unit 3, Pathway 2 Project. 
+Sample 30 days/activities project for Google Developers's Android Basics with Compose Unit 3, Pathway 3 Project. 
 https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3
 
 # References
