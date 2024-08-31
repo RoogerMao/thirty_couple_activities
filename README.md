@@ -7,6 +7,7 @@ https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pat
 - separating data from UI components (whether or not each card is expanded to display description)
 - lazy lists
 - animations
+- state objects
 
 # References
 - **Images:** Creative Commons
