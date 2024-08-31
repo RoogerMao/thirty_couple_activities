@@ -276,7 +276,7 @@ fun _30DaysTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
-        typography = typography,
+        typography = Typography,
         content = content
     )
 }
